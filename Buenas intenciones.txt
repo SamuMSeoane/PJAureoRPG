@@ -1,0 +1,15 @@
+https://bsky.app/profile/zabu.bsky.social/post/3kvjxlqefsk23
+
+Se me ocurre un proyecto molón: una web que te permita generar la ficha de personaje para un JdR bastante completito de forma sencilla y cómoda. Y que además guarde las fichas en algún tipo de formato recuperable, editable y exportable como pdf. Y poder trabajar desde varios equipos usando Github.
+
+Me pongo a ello!
+Abro el VSCode y...
+...no he decidido el diseño
+...no domino HTML - CSS - JS
+...no sé usar el VSCode
+...no tengo cuenta de Github
+...no tengo un servidor para alojar la web
+...no he leído la creación de PJ más que una vez
+...y cierro el VSCode. 
+
+Quiero correr y no sé gatear.
